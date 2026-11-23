@@ -7,7 +7,7 @@ Données du problème
 - Les distances entre les villes sont représentées par une matrice.
 - Les liaisons inexistantes dans le tableau sont représentées par une grande valeur (999).
 
-  1. Recherche Taboue
+1. Recherche Taboue
  
 - Solution initiale : 1-2-3-4-5-6-7-8-1
 - Voisinage : échange de deux villes.
@@ -15,7 +15,7 @@ Données du problème
 - Nombre d'itérations : 100.
 - Conservation du meilleur circuit trouvé.
 
- 2. Recuit Simulé
+2. Recuit Simulé
 
 - Solution initiale : circuit de départ.
 - Nombre d'itérations : 5.
@@ -23,7 +23,7 @@ Données du problème
 - Variation empirique de la température : T = T × 0.8.
 - Acceptation des solutions meilleures et possibilité d'accepter des solutions moins bonnes selon une probabilité.
 
-  3. Algorithme Génétique
+3. Algorithme Génétique
  
 - Population initiale : 50 circuits.
 - Nombre de générations : 100.
